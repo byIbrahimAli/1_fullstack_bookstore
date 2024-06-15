@@ -143,3 +143,18 @@ Create a comprehensive online bookstore application that includes a ReactJS fron
 1. **SQL Database:** A well-designed relational database with all necessary tables, relationships, and stored procedures.
 1. **NGINX Configuration:** A fully configured NGINX server managing incoming requests and serving static content securely.
 1. **Documentation:** Comprehensive documentation for the entire application, including setup instructions, API documentation, and usage guidelines.
+
+# File Structure
+
+online-bookstore-monorepo/
+├── frontend/
+│ └── react-app/
+├── backend/
+│ └── dotnet-api/
+├── services/
+│ └── nodejs-recommendation/
+├── nginx/
+│ └── config/
+├── database/
+│ └── t-sql-scripts/
+└── README.md
