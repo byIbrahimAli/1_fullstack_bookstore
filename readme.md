@@ -146,6 +146,7 @@ Create a comprehensive online bookstore application that includes a ReactJS fron
 
 # File Structure
 
+```
 online-bookstore-monorepo/
 ├── frontend/
 │ └── react-app/
@@ -158,3 +159,4 @@ online-bookstore-monorepo/
 ├── database/
 │ └── t-sql-scripts/
 └── README.md
+```
