@@ -1,0 +1,17 @@
+{
+  "name": "1_fullstack_bookstore",
+  "version": "1.0.0",
+  "description": "Project #1, a fullstack bookstore app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "by Ibrahim Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
